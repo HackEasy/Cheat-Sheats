@@ -1,4 +1,5 @@
 Hacking Tools Cheat Sheet
+-------------------------
 
 Commands and tools that we often use during our penetration tests, security assessments or red teaming engagements. 
 
