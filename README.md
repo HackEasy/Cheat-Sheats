@@ -4,7 +4,7 @@ Hacking Tools Cheat Sheet
 Commands and tools that we often use during our penetration tests, security assessments or red teaming engagements. 
 
 The cheat sheet contains info about the following topics:
-
+---------------------------------------------------------
 Basic Linux Networking Tools (ip, dig)
 
 Information Gathering (whois, CT logs, subdomain enumeration)
